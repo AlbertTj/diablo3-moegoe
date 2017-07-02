@@ -1,0 +1,6 @@
+C:\Users\AllRole\Desktop\moegoe_master\mooege-master\mooege-master\src\LibMooNet\bin\Debug\LibMooNet.dll
+C:\Users\AllRole\Desktop\moegoe_master\mooege-master\mooege-master\src\LibMooNet\bin\Debug\LibMooNet.pdb
+C:\Users\AllRole\Desktop\moegoe_master\mooege-master\mooege-master\src\LibMooNet\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\AllRole\Desktop\moegoe_master\mooege-master\mooege-master\src\LibMooNet\obj\Debug\LibMooNet.csprojResolveAssemblyReference.cache
+C:\Users\AllRole\Desktop\moegoe_master\mooege-master\mooege-master\src\LibMooNet\obj\Debug\LibMooNet.dll
+C:\Users\AllRole\Desktop\moegoe_master\mooege-master\mooege-master\src\LibMooNet\obj\Debug\LibMooNet.pdb

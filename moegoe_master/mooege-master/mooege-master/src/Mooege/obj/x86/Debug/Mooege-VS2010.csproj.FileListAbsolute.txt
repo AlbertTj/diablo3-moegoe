@@ -1,0 +1,3 @@
+C:\Users\AllRole\Desktop\moegoe_master\mooege-master\mooege-master\src\Mooege\obj\x86\Debug\Mooege-VS2010.csprojResolveAssemblyReference.cache
+C:\Users\AllRole\Desktop\moegoe_master\mooege-master\mooege-master\src\Mooege\obj\x86\Debug\Mooege.Core.GS.Map.Debug.WorldVisualizer.resources
+C:\Users\AllRole\Desktop\moegoe_master\mooege-master\mooege-master\src\Mooege\obj\x86\Debug\Mooege-VS2010.csproj.GenerateResource.Cache

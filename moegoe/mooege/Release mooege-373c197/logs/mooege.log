@@ -1,0 +1,822 @@
+[02.07.2017 16:01:29.672] [ Info] [Program]: mooege v1.8815.4455.14669 warming-up..
+[02.07.2017 16:01:29.673] [ Info] [MPQStorage]: Initializing MPQ storage..
+[02.07.2017 16:01:29.690] [Trace] [MPQPatchChain]: Added base-mpq file: CoreData.mpq.
+[02.07.2017 16:01:29.691] [Trace] [MPQPatchChain]: Added base-mpq file: ClientData.mpq.
+[02.07.2017 16:01:29.700] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-7170.MPQ.
+[02.07.2017 16:01:29.700] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-7200.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-7318.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-7338.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-7447.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-7728.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-7841.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-7931.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-8059.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-8101.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-8296.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-8350.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-8392.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-8610.MPQ.
+[02.07.2017 16:01:29.702] [Trace] [MPQPatchChain]: Added patch file: /base/d3-update-base-8815.MPQ.
+[02.07.2017 16:01:29.713] [Trace] [MPQPatchChain]: Applying file: d3-update-base-8815.MPQ.
+[02.07.2017 16:01:29.744] [Trace] [MPQPatchChain]: Applying file: d3-update-base-8610.MPQ.
+[02.07.2017 16:01:29.959] [Trace] [MPQPatchChain]: Applying file: d3-update-base-8392.MPQ.
+[02.07.2017 16:01:29.960] [Trace] [MPQPatchChain]: Applying file: d3-update-base-8350.MPQ.
+[02.07.2017 16:01:29.961] [Trace] [MPQPatchChain]: Applying file: d3-update-base-8296.MPQ.
+[02.07.2017 16:01:30.027] [Trace] [MPQPatchChain]: Applying file: d3-update-base-8101.MPQ.
+[02.07.2017 16:01:30.028] [Trace] [MPQPatchChain]: Applying file: d3-update-base-8059.MPQ.
+[02.07.2017 16:01:30.116] [Trace] [MPQPatchChain]: Applying file: d3-update-base-7931.MPQ.
+[02.07.2017 16:01:30.138] [Trace] [MPQPatchChain]: Applying file: d3-update-base-7841.MPQ.
+[02.07.2017 16:01:30.229] [Trace] [MPQPatchChain]: Applying file: d3-update-base-7728.MPQ.
+[02.07.2017 16:01:30.359] [Trace] [MPQPatchChain]: Applying file: d3-update-base-7447.MPQ.
+[02.07.2017 16:01:30.361] [Trace] [MPQPatchChain]: Applying file: d3-update-base-7338.MPQ.
+[02.07.2017 16:01:30.362] [Trace] [MPQPatchChain]: Applying file: d3-update-base-7318.MPQ.
+[02.07.2017 16:01:30.488] [Trace] [MPQPatchChain]: Applying file: d3-update-base-7200.MPQ.
+[02.07.2017 16:01:30.489] [Trace] [MPQPatchChain]: Applying file: d3-update-base-7170.MPQ.
+[02.07.2017 16:01:30.490] [Trace] [MPQPatchChain]: Applying file: ClientData.mpq.
+[02.07.2017 16:01:30.554] [Trace] [MPQPatchChain]: Applying file: CoreData.mpq.
+[02.07.2017 16:01:30.632] [Trace] [MPQPatchChain]: All files successfully applied.
+[02.07.2017 16:01:30.633] [ Info] [Data]: Reading assets from MPQ data..
+[02.07.2017 16:01:31.812] [Trace] [Data]: Found a total of 48218 assets from CoreTOC.dat catalog and postponed loading because lazy loading is activated.
+[02.07.2017 16:01:32.042] [Trace] [Data]: Found a total of 46166 assets from TOC.dat catalog and postponed loading because lazy loading is activated.
+[02.07.2017 16:01:32.113] [Trace] [Data]: Found a total of 335 assets from DB catalog and postponed loading because lazy loading is activated.
+[02.07.2017 16:01:32.115] [ Info] [Program]: Loading item database..
+[02.07.2017 16:01:38.052] [Trace] [Program]: Item database loaded with a total of 1100 item definitions.
+[02.07.2017 16:01:38.053] [ Info] [Program]: Loading achievements database..
+[02.07.2017 16:01:38.191] [ Info] [AchievementManager]: Achievement file loaded from disk.
+[02.07.2017 16:01:38.192] [Trace] [Program]: Achievement file parsed with a total of 43 achievements and 103 criteria in 14 categories.
+[02.07.2017 16:01:38.192] [ Info] [Program]: Type '!commands' for a list of available commands
+[02.07.2017 16:01:38.202] [ Info] [GameServer]: Game-Server is listening on 0.0.0.0:1999...
+[02.07.2017 16:01:38.202] [ Info] [MooNetServer]: MooNet-Server is listening on 0.0.0.0:1345...
+[02.07.2017 16:05:01.126] [Trace] [MooNetServer]: MooNet-Client connected: 192.168.100.2:55725
+[02.07.2017 16:05:01.229] [Trace] [ConnectionService]: Connect()
+[02.07.2017 16:05:01.249] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:05:01.251] [Trace] [ConnectionService]: [export] Hash: 0xB732DB32 Id: 0x10 Service: ChannelService 
+[02.07.2017 16:05:01.251] [Trace] [ConnectionService]: [export] Hash: 0xFA0796FF Id: 0x0B Service: PresenceService 
+[02.07.2017 16:05:01.251] [Trace] [ConnectionService]: [import] Hash: 0xBF8C8094 Id: 0x01
+[02.07.2017 16:05:01.253] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:05:01.254] [Trace] [ConnectionService]: [export] Hash: 0x0DECFC01 Id: 0x01 Service: AuthenticationService 
+[02.07.2017 16:05:01.254] [Trace] [ConnectionService]: [import] Hash: 0x71240E35 Id: 0x02
+[02.07.2017 16:05:01.254] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:05:01.255] [Trace] [ConnectionService]: [export] Hash: 0x43487D3D Id: 0x20 Service: AchievementService 
+[02.07.2017 16:05:01.255] [Trace] [ConnectionService]: [import] Hash: 0xD4DCD093 Id: 0x03
+[02.07.2017 16:05:01.255] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:05:01.256] [Trace] [ConnectionService]: [export] Hash: 0xDBBF6F19 Id: 0x63 Service: ReportService 
+[02.07.2017 16:05:01.256] [Trace] [ConnectionService]: [import] Hash: 0xBBDA171F Id: 0x04
+[02.07.2017 16:05:01.256] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:05:01.256] [Trace] [ConnectionService]: [export] Hash: 0x7CAF61C9 Id: 0x64 Service: N/A 
+[02.07.2017 16:05:01.719] [Trace] [AuthenticationService]: LogonRequest(): Email=test@
+[02.07.2017 16:05:01.725] [Trace] [VersionChecker]: Client Info: user: test@ program: D3  platform: Win locale: enUS version: 8815 [Aurora 4a39a60e1b_public/319 (Mar  6 2012 13:53:45)]  app_version: 8815.
+[02.07.2017 16:05:01.775] [Trace] [MooNetClient]: [RPC: { Client: ?? }] Method: Void <InitAuthentication>b__0() Target: N/A
+[02.07.2017 16:05:02.336] [Trace] [MooNetRouter]: RPCReply => Google.ProtocolBuffers.RpcUtil+<>c__DisplayClass4`2[bnet.protocol.authentication.ModuleLoadResponse,bnet.protocol.authentication.ModuleLoadResponse+Builder]
+[02.07.2017 16:05:02.342] [Trace] [AuthManager]: ModuleLoadResponse(): module_id: 0
+
+[02.07.2017 16:05:02.363] [Trace] [AuthenticationService]: ModuleMessage(): command: 2
+[02.07.2017 16:05:02.407] [Trace] [MooNetClient]: [RPC: { Client: ?? }] Method: Void <HandleAuthResponse>b__3() Target: N/A
+[02.07.2017 16:05:02.408] [ Info] [AuthenticationService]: User test@ authenticated successfuly.
+[02.07.2017 16:05:02.409] [Trace] [MooNetRouter]: RPCReply => Google.ProtocolBuffers.RpcUtil+<>c__DisplayClass4`2[bnet.protocol.NoData,bnet.protocol.NoData+Builder]
+[02.07.2017 16:05:02.532] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <EnableEncryption>b__0() Target: N/A
+[02.07.2017 16:05:02.541] [Trace] [AuthenticationService]: SelectGameAccount(): { GameAccount: mooege#0020 [lowId: 26990464] }
+[02.07.2017 16:05:02.541] [Trace] [MooNetRouter]: RPCReply => Google.ProtocolBuffers.RpcUtil+<>c__DisplayClass4`2[bnet.protocol.NoData,bnet.protocol.NoData+Builder]
+[02.07.2017 16:05:03.579] [Fatal] [MooNetClient]: OnTSLAuthentication() exception:  - [Exception] OpenSSL.Core.OpenSslException: error:1408A0C1:SSL routines:SSL3_GET_CLIENT_HELLO:no shared cipher
+   at OpenSSL.SslStreamBase.EndRead(IAsyncResult asyncResult)
+   at OpenSSL.SslStream.EndRead(IAsyncResult asyncResult)
+   at OpenSSL.SslStream.EndAuthenticateAsServer(IAsyncResult ar)
+   at Mooege.Net.MooNet.MooNetClient.OnTSLAuthentication(IAsyncResult result)
+[02.07.2017 16:05:03.582] [Trace] [MooNetClient]: TLSStream: authenticated: True, signed: True, encrypted: True, cipher: None cipher-strength: 0, hash algorithm: None, hash-strength: 0, key-exchange algorithm: None, key-exchange strength: 0, protocol: None
+[02.07.2017 16:05:03.586] [Trace] [MooNetClient]: Local certificate was issued to CN=Mooege by CN=Mooege and is valid from 07/02/2017 16:05:03 until 07/02/2018 16:05:03.
+[02.07.2017 16:05:03.588] [Trace] [PresenceService]: Subscribe() { Client: test@ } { Account: test@ [lowId: 26990464] }
+[02.07.2017 16:05:03.589] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <SendAccountSettings>b__a() Target: N/A
+[02.07.2017 16:05:03.623] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: { Account: test@ [lowId: 26990464] } [localId: 2, remoteId: 1].
+[02.07.2017 16:05:03.638] [Trace] [PresenceService]: Subscribe() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] }
+[02.07.2017 16:05:03.639] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:03.671] [Trace] [AchievementService]: Initialize()
+[02.07.2017 16:05:03.674] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.675] [Trace] [ConnectionService]: [export] Hash: 0xA3DDB1BD Id: 0x06 Service: FriendsService 
+[02.07.2017 16:05:03.675] [Trace] [ConnectionService]: [import] Hash: 0x6F259A13 Id: 0x06
+[02.07.2017 16:05:03.675] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.676] [Trace] [ConnectionService]: [export] Hash: 0x060CA08D Id: 0x11 Service: ChannelOwnerService 
+[02.07.2017 16:05:03.676] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.676] [Trace] [ConnectionService]: [export] Hash: 0x060CA08D Id: 0x11 Service: ChannelOwnerService 
+[02.07.2017 16:05:03.677] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.677] [Trace] [ConnectionService]: [export] Hash: 0xECBE75BA Id: 0x0D Service: ResourceService 
+[02.07.2017 16:05:03.677] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.678] [Trace] [ConnectionService]: [export] Hash: 0x810CB195 Id: 0x07 Service: GameMasterService 
+[02.07.2017 16:05:03.678] [Trace] [ConnectionService]: [export] Hash: 0x3FC1274D Id: 0x08 Service: GameUtilitiesService 
+[02.07.2017 16:05:03.678] [Trace] [ConnectionService]: [export] Hash: 0x060CA08D Id: 0x11 Service: ChannelOwnerService 
+[02.07.2017 16:05:03.679] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.679] [Trace] [ConnectionService]: [export] Hash: 0xD750148B Id: 0x0A Service: ExchangeService 
+[02.07.2017 16:05:03.679] [Trace] [ConnectionService]: [import] Hash: 0x166FE4A1 Id: 0x07
+[02.07.2017 16:05:03.680] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.682] [Trace] [ConnectionService]: [export] Hash: 0x0A24A291 Id: 0x0E Service: SearchService 
+[02.07.2017 16:05:03.682] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.682] [Trace] [ConnectionService]: [export] Hash: 0x0CBE3C43 Id: 0x0C Service: NotificationService 
+[02.07.2017 16:05:03.683] [Trace] [ConnectionService]: [import] Hash: 0xE1CB2EA8 Id: 0x08
+[02.07.2017 16:05:03.683] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.683] [Trace] [ConnectionService]: [export] Hash: 0x83040608 Id: 0x03 Service: ChannelInvitationService 
+[02.07.2017 16:05:03.683] [Trace] [ConnectionService]: [import] Hash: 0xF084FC20 Id: 0x09
+[02.07.2017 16:05:03.684] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:05:03.684] [Trace] [ConnectionService]: [export] Hash: 0x3E19268A Id: 0x05 Service: UserManagerService 
+[02.07.2017 16:05:03.684] [Trace] [ConnectionService]: [import] Hash: 0xBC872C22 Id: 0x0A
+[02.07.2017 16:05:03.721] [Trace] [FriendsService]: Subscribe() { Client: test@ }
+[02.07.2017 16:05:03.724] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: Mooege.Core.MooNet.Friends.FriendManager [localId: 4, remoteId: 3].
+[02.07.2017 16:05:03.740] [Trace] [ResourceService]: GetContentHandle(): ProgramId: 0x0000424E StreamId: 0x61706674 Locale: 0x656E5553
+[02.07.2017 16:05:03.741] [ Warn] [MooNetRouter]: Unimplemented service method: ResourceService.GetContentHandle
+[02.07.2017 16:05:03.742] [Trace] [ResourceService]: GetContentHandle(): ProgramId: 0x00004433 StreamId: 0x61706674 Locale: 0x656E5553
+[02.07.2017 16:05:03.742] [ Warn] [MooNetRouter]: Unimplemented service method: ResourceService.GetContentHandle
+[02.07.2017 16:05:03.779] [Trace] [ChannelInvitationService]: Subscribe() { Client: test@ }
+[02.07.2017 16:05:03.780] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: Mooege.Core.MooNet.Channels.ChannelInvitationManager [localId: 1, remoteId: 4].
+[02.07.2017 16:05:03.805] [Trace] [UserManagerService]: Subscribe() { Client: test@ }
+[02.07.2017 16:05:03.888] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 7
+[02.07.2017 16:05:03.899] [Trace] [GameMasterService]: ListFactories() { Client: test@ }
+[02.07.2017 16:05:03.910] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 19
+[02.07.2017 16:05:03.983] [Trace] [GameUtilitiesService]: GetHeroList()
+[02.07.2017 16:05:03.996] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:03.998] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	BNet, GameAccount, 8
+[02.07.2017 16:05:03.999] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 1
+[02.07.2017 16:05:03.999] [Trace] [GameUtilitiesService]: GetAccountDigest()
+[02.07.2017 16:05:04.002] [Trace] [ResourceService]: GetContentHandle(): ProgramId: 0x00004433 StreamId: 0x72707273 Locale: 0x656E5553
+[02.07.2017 16:05:04.002] [ Warn] [MooNetRouter]: Unimplemented service method: ResourceService.GetContentHandle
+[02.07.2017 16:05:04.002] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 16
+[02.07.2017 16:05:04.028] [Trace] [ChannelOwnerService]: FindChannel(): Filter=op: MATCH_ALL
+
+[02.07.2017 16:05:04.672] [Trace] [AchievementService]: Register()
+[02.07.2017 16:05:08.275] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 2
+[02.07.2017 16:05:08.278] [Trace] [ToonManager]: SELECT hashCode FROM toons WHERE name='teataet'
+[02.07.2017 16:05:08.316] [Debug] [RPCObject]: Create Toon for the first time in DB 2452589540
+[02.07.2017 16:05:08.317] [Trace] [ToonManager]: Character teataet added to database
+[02.07.2017 16:05:08.317] [Trace] [GameUtilitiesService]: CreateHero() { Toon: teataet [lowId: 2452589540] }
+[02.07.2017 16:05:08.319] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 0
+[02.07.2017 16:05:08.323] [Trace] [GameUtilitiesService]: GetHeroDigestList()
+[02.07.2017 16:05:08.353] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 4
+[02.07.2017 16:05:08.356] [Trace] [GameUtilitiesService]: SelectToon() { Toon: teataet [lowId: 2452589540] }
+[02.07.2017 16:05:08.356] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:08.435] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 9
+[02.07.2017 16:05:08.438] [Trace] [GameUtilitiesService]: GetToonSettings
+[02.07.2017 16:05:08.575] [Trace] [ExchangeService]: SubscribeOrderStatusChange() Stub
+[02.07.2017 16:05:08.583] [Trace] [ChannelOwnerService]: CreateChannel() { Channel: [id: 6] [owner: N/A] } for { Toon: teataet [lowId: 2452589540] }
+[02.07.2017 16:05:08.597] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <AddMember>b__7() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:08.602] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <AddMember>b__9() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:08.618] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 1
+[02.07.2017 16:05:08.619] [Trace] [RPCObject]: { GameAccount: mooege#0020 [lowId: 26990464] } set current screen to 3.
+[02.07.2017 16:05:08.620] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:08.620] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 2
+[02.07.2017 16:05:08.621] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:08.621] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 3
+[02.07.2017 16:05:08.628] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:08.636] [Trace] [ChannelService]: D3.Party.GameCreateParams: game_type: 1
+creation_flags: 0
+coop {
+  difficulty_level: 0
+  act: 0
+  sno_quest: 87700
+  quest_step_id: -1
+  open_to_friends: true
+  open_to_friends_message: ""
+}
+name: "teataet"
+
+[02.07.2017 16:05:08.638] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:08.639] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:08.639] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 4
+[02.07.2017 16:05:09.152] [Trace] [ExchangeService]: GetConfiguration()
+[02.07.2017 16:05:09.164] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:09.176] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <SendServerWhisper>b__4() Target: N/A
+[02.07.2017 16:05:09.180] [Trace] [ChannelService]: Client moving to Screen: 3, with Status: 0
+[02.07.2017 16:05:09.181] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.856] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.858] [Trace] [ChannelService]: D3.Party.GameCreateParams: game_type: 1
+creation_flags: 0
+coop {
+  difficulty_level: 0
+  act: 0
+  sno_quest: 87700
+  quest_step_id: -1
+  open_to_friends: true
+  open_to_friends_message: ""
+}
+name: "teataet"
+
+[02.07.2017 16:05:10.858] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.858] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.859] [ Warn] [ChannelService]: UpdateChannelState(): Unknown attribute: D3.Party.JoinPermissionPreviousToClose
+[02.07.2017 16:05:10.859] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.860] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.860] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.861] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.861] [Trace] [ChannelService]: D3.Party.LockReasons = 1
+[02.07.2017 16:05:10.862] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.876] [Trace] [GameMasterService]: FindGame() { Client: test@ }
+[02.07.2017 16:05:10.880] [ Warn] [RPCObject]: FindGame(): Unknown CreationAttribute: DifficultyLevel
+[02.07.2017 16:05:10.881] [ Warn] [RPCObject]: FindGame(): Unknown CreationAttribute: PlayerGroup
+[02.07.2017 16:05:10.881] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <FindGame>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.884] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <FindGame>b__2() Target: N/A
+[02.07.2017 16:05:10.885] [ Info] [GameMasterService]: Client teataet creating new game
+[02.07.2017 16:05:10.938] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <SendConnectionInfo>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.939] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <SendConnectionInfo>b__2() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.943] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <SendConnectionInfo>b__4() Target: N/A
+[02.07.2017 16:05:10.944] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:10.945] [Trace] [RPCObject]: { GameAccount: mooege#0020 [lowId: 26990464] } set current screen to 1.
+[02.07.2017 16:05:10.945] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:10.945] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 2
+[02.07.2017 16:05:10.949] [Trace] [ChannelOwnerService]: ChannelOwnerService:JoinChannel()
+[02.07.2017 16:05:10.949] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <AddMember>b__7() Target: { Channel: [id: 7] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 7, remoteId: 9].
+[02.07.2017 16:05:10.950] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <AddMember>b__9() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:10.955] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 2
+[02.07.2017 16:05:10.969] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:10.970] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, GameSession, 5
+[02.07.2017 16:05:10.971] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.971] [ Warn] [ChannelService]: UpdateChannelState(): Unknown attribute: D3.Party.JoinPermissionPreviousToClose
+[02.07.2017 16:05:10.971] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.972] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:10.972] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:10.972] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:10.973] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 3 Operations	BNet, GameAccount, 8	BNet, GameAccount, 8	BNet, GameAccount, 8
+[02.07.2017 16:05:10.973] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.975] [Trace] [ChannelService]: D3.Party.GameId = 7
+[02.07.2017 16:05:10.976] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.976] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.976] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.977] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.977] [Trace] [ChannelService]: D3.Party.ScreenStatus = null
+[02.07.2017 16:05:10.977] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.978] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.981] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.981] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.982] [ Warn] [ChannelService]: UpdateChannelState(): Unknown attribute: D3.Party.JoinPermissionPreviousToClose
+[02.07.2017 16:05:10.982] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.982] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:05:10.983] [Trace] [ChannelService]: D3.Party.LockReasons = 0
+[02.07.2017 16:05:10.983] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:05:10.993] [Trace] [ExchangeService]: UnsubscribeOrderStatusChange() Stub
+[02.07.2017 16:05:11.505] [Trace] [ClientManager]: Game-Client connected: 192.168.100.2:55739
+[02.07.2017 16:05:11.710] [Trace] [RPCObject]: { GameAccount: mooege#0020 [lowId: 26990464] } set current screen to 4.
+[02.07.2017 16:05:11.712] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:05:11.712] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 2
+[02.07.2017 16:05:12.287] [Trace] [Scene]: Ignoring marker BlacksmithForge in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.302] [Trace] [Scene]: Ignoring marker FrontGateMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.317] [Trace] [Scene]: Ignoring marker WaypointMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.323] [ Warn] [ActorFactory]: Skipping loading of boss portals
+[02.07.2017 16:05:12.323] [Trace] [Scene]: Ignoring marker SlaughteredCalfInnMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.323] [Trace] [Scene]: Ignoring marker WaypointMarkerBlackKing in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.328] [Trace] [Scene]: Ignoring marker RumfordMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.328] [Trace] [Scene]: Ignoring marker LeahCainReturnsMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.328] [Trace] [Scene]: Ignoring marker CainStrangerIntroMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.329] [Trace] [Scene]: Ignoring marker CainFirstSwordMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.329] [Trace] [Scene]: Ignoring marker CainsHouseMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.329] [Trace] [Scene]: Ignoring marker WorthamCavesWaypointMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.373] [Trace] [Scene]: Ignoring marker BridleTristramMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.374] [Trace] [Scene]: Ignoring marker CaravanLeaderMarker in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.397] [Trace] [Scene]: Ignoring marker WaypointMarkerFields in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.398] [Trace] [Scene]: Ignoring marker WaypointMarkerNephalem in  (56275) because minimap marker are not handled yet
+[02.07.2017 16:05:12.400] [Trace] [Scene]: Ignoring marker Script PostBridleRescueCheckForAdvance in  (56275) because scripts are not handled yet
+[02.07.2017 16:05:12.471] [Trace] [Scene]: Ignoring marker Bridge2TristramFields in  (56970) because minimap marker are not handled yet
+[02.07.2017 16:05:12.472] [Trace] [Scene]: Ignoring marker FieldsMarker in  (56970) because minimap marker are not handled yet
+[02.07.2017 16:05:12.532] [Trace] [Scene]: Ignoring marker FesteringWoods in  (59954) because minimap marker are not handled yet
+[02.07.2017 16:05:12.550] [Trace] [Scene]: Ignoring marker Scoundrel Minimap Marker in  (60719) because minimap marker are not handled yet
+[02.07.2017 16:05:12.592] [Trace] [Scene]: Ignoring marker NephalemDungeons in  (61502) because minimap marker are not handled yet
+[02.07.2017 16:05:12.596] [Trace] [Scene]: Ignoring marker PedestalMarker in  (61502) because minimap marker are not handled yet
+[02.07.2017 16:05:12.596] [Trace] [Scene]: Ignoring marker PedestalMarker2 in  (61502) because minimap marker are not handled yet
+[02.07.2017 16:05:12.597] [Trace] [Scene]: Ignoring marker MinimapMarker_Invalid_Name NephalemDungeons 001 in  (61502) because minimap marker are not handled yet
+[02.07.2017 16:05:12.823] [Trace] [Scene]: Ignoring marker Event Event_FarmhouseAmbush 000 in  (60150) because events are not handled yet
+[02.07.2017 16:05:12.824] [Trace] [Scene]: Ignoring marker FarmhouseB_Spawner_Marker1 in  (60150) because minimap marker are not handled yet
+[02.07.2017 16:05:12.824] [Trace] [Scene]: Ignoring marker FarmhouseB_Spawner_Marker2 in  (60150) because minimap marker are not handled yet
+[02.07.2017 16:05:12.825] [Trace] [Scene]: Ignoring marker FarmhouseB_Spawner_Marker3 in  (60150) because minimap marker are not handled yet
+[02.07.2017 16:05:12.825] [Trace] [Scene]: Ignoring marker FarmhouseB_Spawner_Marker4 in  (60150) because minimap marker are not handled yet
+[02.07.2017 16:05:13.052] [Trace] [Scene]: Ignoring marker MysticMarker in  (93640) because minimap marker are not handled yet
+[02.07.2017 16:05:13.169] [ Warn] [WorldGenerator]: Referenced clusterID 23 not found for chunk 33342 in world 71150
+[02.07.2017 16:05:13.174] [Trace] [Scene]: Ignoring marker TristramBridge in  (61533) because minimap marker are not handled yet
+[02.07.2017 16:05:13.184] [Trace] [Scene]: Ignoring marker Script TristramBackGateEnableCheck 000 in  (61533) because scripts are not handled yet
+[02.07.2017 16:05:13.203] [Trace] [Scene]: Ignoring marker A2C2_BlacksmithLoc in  (61533) because minimap marker are not handled yet
+[02.07.2017 16:05:13.232] [Trace] [Scene]: Ignoring marker BlacksmithCellar in  (74912) because minimap marker are not handled yet
+[02.07.2017 16:05:13.247] [Trace] [Scene]: Ignoring marker LeoricMarker in  (77027) because minimap marker are not handled yet
+[02.07.2017 16:05:13.281] [Trace] [Scene]: Ignoring marker LeoricManorMarker in  (177031) because minimap marker are not handled yet
+[02.07.2017 16:05:13.306] [Trace] [Scene]: Ignoring marker Ferryman Minimap in  (72561) because minimap marker are not handled yet
+[02.07.2017 16:05:13.385] [Trace] [Scene]: Ignoring marker Minimap_GravePostCrown in  (75807) because minimap marker are not handled yet
+[02.07.2017 16:05:13.393] [Trace] [Scene]: Ignoring marker BurialGrounds in  (75808) because minimap marker are not handled yet
+[02.07.2017 16:05:13.456] [Trace] [Scene]: Ignoring marker MysticWagonMarker in  (123955) because minimap marker are not handled yet
+[02.07.2017 16:05:13.629] [Trace] [Scene]: Ignoring marker MinimapMarker_Invalid_Name NephalemDungeons 000 in  (78213) because minimap marker are not handled yet
+[02.07.2017 16:05:13.821] [Trace] [Scene]: Ignoring marker NephalemDungeonMarkerA in  (81160) because minimap marker are not handled yet
+[02.07.2017 16:05:13.840] [Trace] [Scene]: Ignoring marker NephalemDungeonMarkerB in  (81161) because minimap marker are not handled yet
+[02.07.2017 16:05:13.841] [Trace] [Scene]: Ignoring marker Script FesteringWoodsComplete 000 in  (81161) because scripts are not handled yet
+[02.07.2017 16:05:13.855] [Trace] [Scene]: Ignoring marker Event FesteringWoods_Ambush 000 in  (111673) because events are not handled yet
+[02.07.2017 16:05:13.856] [Trace] [Scene]: Ignoring marker Event FesteringWoods_Ambush 000 in  (111673) because events are not handled yet
+[02.07.2017 16:05:13.875] [Trace] [Scene]: Ignoring marker Event Event_Last_Stand 000 in  (110685) because events are not handled yet
+[02.07.2017 16:05:14.176] [Trace] [Scene]: Ignoring marker OldTristramGateMarker in  (91047) because minimap marker are not handled yet
+[02.07.2017 16:05:14.177] [Trace] [Scene]: Ignoring marker Waypoint Marker in  (91047) because minimap marker are not handled yet
+[02.07.2017 16:05:14.179] [Trace] [Scene]: Ignoring marker WretchedQueenMarker in  (91047) because minimap marker are not handled yet
+[02.07.2017 16:05:14.240] [Trace] [Scene]: Ignoring marker AdriasLadder in  (91046) because minimap marker are not handled yet
+[02.07.2017 16:05:14.241] [Trace] [Scene]: Ignoring marker MinimapAdriaHut in  (91046) because minimap marker are not handled yet
+[02.07.2017 16:05:14.294] [Trace] [Scene]: Ignoring marker CathedralMapMarker in  (94184) because minimap marker are not handled yet
+[02.07.2017 16:05:14.296] [Trace] [Scene]: Ignoring marker CraterPortalMarker in  (94184) because minimap marker are not handled yet
+[02.07.2017 16:05:14.313] [Trace] [Scene]: Ignoring marker WaypointMarkerCathedralGraveyard in  (95694) because minimap marker are not handled yet
+[02.07.2017 16:05:14.313] [Trace] [Scene]: Ignoring marker MausoleumMarker in  (95694) because minimap marker are not handled yet
+[02.07.2017 16:05:14.399] [Trace] [Scene]: Ignoring marker Minimap Khazra Den in  (119879) because minimap marker are not handled yet
+[02.07.2017 16:05:14.642] [Trace] [Scene]: Ignoring marker Barricade Marker in  (130580) because minimap marker are not handled yet
+[02.07.2017 16:05:14.797] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 101192 - trOut_Barrel_Common for LevelArea [LevelArea] 202446 - A1_trOUT_NewTristram_AttackArea because there are less locations (0) than spawn amount (3, 1 min)
+[02.07.2017 16:05:14.799] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 101192 - trOut_Barrel_Common for LevelArea [LevelArea] 19947 - A1_trOUT_NewTristram because there are less locations (0) than spawn amount (3, 1 min)
+[02.07.2017 16:05:14.799] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 187824 - Clicky_LootType2_TristramVillager_Male_Corpse for LevelArea [LevelArea] 19947 - A1_trOUT_NewTristram because there are less locations (0) than spawn amount (2, 1 min)
+[02.07.2017 16:05:14.800] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 101192 - trOut_Barrel_Common for LevelArea [LevelArea] 156038 - A1_trOUT_NewTristramOverlook because there are less locations (0) than spawn amount (3, 1 min)
+[02.07.2017 16:05:14.801] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 187824 - Clicky_LootType2_TristramVillager_Male_Corpse for LevelArea [LevelArea] 156038 - A1_trOUT_NewTristramOverlook because there are less locations (0) than spawn amount (2, 1 min)
+[02.07.2017 16:05:14.809] [Trace] [WorldGenerator]: Spawning 11 (8 - 11 [Actor] 112200 - trOut_Wilderness_RockPile_A in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.812] [Trace] [WorldGenerator]: Spawning 10 (7 - 10 [Encounter] 187824 - Clicky_LootType2_TristramVillager_Male_Corpse in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.816] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 187899 - Clicky_LootType3_TristramGuard_Corpse in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.817] [Trace] [WorldGenerator]: Spawning 10 (7 - 10 [Actor] 91363 - trOut_Bone_Cairn in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.818] [Trace] [WorldGenerator]: Spawning 16 (12 - 16 [Actor] 113932 - Trout_Log in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.819] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 62859 - TrOut_Fields_Chest in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.820] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 62860 - TrOut_Fields_Chest_Rare in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.820] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186869 - A1_TristramFields_A_DeadEndReward for LevelArea [LevelArea] 19952 - A1_trOut_TristramFields_A because there are less locations (6) than spawn amount (100, 100 min)
+[02.07.2017 16:05:14.821] [Trace] [WorldGenerator]: Spawning 3 (1 - 3 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.826] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 138989 - HealthWell_Global in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.826] [Trace] [WorldGenerator]: Spawning 3 (2 - 3 [Adventure] 205992 - A1_Fields_RollingLogTrap_GoatmanRanged in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.828] [Trace] [WorldGenerator]: Spawning 3 (2 - 3 [Adventure] 203450 - A1_Fields_RollingLogTrap_Goats in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.829] [Trace] [WorldGenerator]: Spawning 7 (5 - 7 [Actor] 213517 - trout_fields_goatman_trap_door in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.829] [Trace] [WorldGenerator]: Spawning 3 (1 - 3 [Actor] 77690 - trOut_TristramFields_Punji_Trap in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.830] [Trace] [WorldGenerator]: Spawning 3 (1 - 3 [Actor] 77934 - trOut_TristramFields_Punji_Trap_Mirror in [LevelArea] 19952 - A1_trOut_TristramFields_A
+[02.07.2017 16:05:14.859] [Trace] [WorldGenerator]: Spawning 5 (3 - 5 [Actor] 91363 - trOut_Bone_Cairn in [LevelArea] 19953 - A1_trOut_TristramFields_B
+[02.07.2017 16:05:14.867] [Trace] [WorldGenerator]: Spawning 5 (3 - 5 [Encounter] 188121 - Clicky_LootType2_FesteringSkeleton_Corpse in [LevelArea] 19953 - A1_trOut_TristramFields_B
+[02.07.2017 16:05:14.868] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 62859 - TrOut_Fields_Chest in [LevelArea] 19953 - A1_trOut_TristramFields_B
+[02.07.2017 16:05:14.869] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 62860 - TrOut_Fields_Chest_Rare in [LevelArea] 19953 - A1_trOut_TristramFields_B
+[02.07.2017 16:05:14.870] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186884 - A1_TristramFields_B_DeadEndReward for LevelArea [LevelArea] 19953 - A1_trOut_TristramFields_B because there are less locations (0) than spawn amount (100, 100 min)
+[02.07.2017 16:05:14.870] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 19953 - A1_trOut_TristramFields_B
+[02.07.2017 16:05:14.872] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 138989 - HealthWell_Global in [LevelArea] 19953 - A1_trOut_TristramFields_B
+[02.07.2017 16:05:14.882] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 112200 - trOut_Wilderness_RockPile_A in [LevelArea] 61573 - A1_trOut_TristramFields_ExitA
+[02.07.2017 16:05:14.882] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Encounter] 187811 - Clicky_LootType2_Adventurer_Corpse in [LevelArea] 61573 - A1_trOut_TristramFields_ExitA
+[02.07.2017 16:05:14.883] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 187899 - Clicky_LootType3_TristramGuard_Corpse in [LevelArea] 61573 - A1_trOut_TristramFields_ExitA
+[02.07.2017 16:05:14.884] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 91363 - trOut_Bone_Cairn in [LevelArea] 61573 - A1_trOut_TristramFields_ExitA
+[02.07.2017 16:05:14.884] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 113932 - Trout_Log in [LevelArea] 61573 - A1_trOut_TristramFields_ExitA
+[02.07.2017 16:05:14.884] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 62859 - TrOut_Fields_Chest in [LevelArea] 61573 - A1_trOut_TristramFields_ExitA
+[02.07.2017 16:05:14.885] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 62860 - TrOut_Fields_Chest_Rare in [LevelArea] 61573 - A1_trOut_TristramFields_ExitA
+[02.07.2017 16:05:14.885] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 176071 - Clicky_Shrines for LevelArea [LevelArea] 61573 - A1_trOut_TristramFields_ExitA because there are less locations (0) than spawn amount (1, 0 min)
+[02.07.2017 16:05:14.894] [Trace] [WorldGenerator]: Spawning 3 (1 - 3 [Actor] 101192 - trOut_Barrel_Common in [LevelArea] 134002 - A1_trOut_ForlornFarm
+[02.07.2017 16:05:14.895] [Trace] [WorldGenerator]: Spawning 2 (0 - 2 [Encounter] 187824 - Clicky_LootType2_TristramVillager_Male_Corpse in [LevelArea] 134002 - A1_trOut_ForlornFarm
+[02.07.2017 16:05:14.897] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 187899 - Clicky_LootType3_TristramGuard_Corpse in [LevelArea] 134002 - A1_trOut_ForlornFarm
+[02.07.2017 16:05:14.897] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 79016 - trOut_Tristram_chest in [LevelArea] 134002 - A1_trOut_ForlornFarm
+[02.07.2017 16:05:14.906] [Trace] [WorldGenerator]: Spawning 10 (4 - 10 [Actor] 112200 - trOut_Wilderness_RockPile_A in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.907] [Trace] [WorldGenerator]: Spawning 8 (5 - 8 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.908] [Trace] [WorldGenerator]: Spawning 8 (6 - 8 [Encounter] 187824 - Clicky_LootType2_TristramVillager_Male_Corpse in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.910] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 123244 - ravenFlock_A_Corpse in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.912] [Trace] [WorldGenerator]: Spawning 7 (5 - 7 [Actor] 113932 - Trout_Log in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.913] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 78790 - trOut_wilderness_chest in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.914] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 84742 - trOut_Wilderness_Grave_Chest in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.915] [Trace] [WorldGenerator]: Spawning 3 (2 - 3 [Actor] 87430 - trOut_Wilderness_Coffin_Spawner in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.916] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 123245 - ravenFlock_A_Coffin in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.917] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 78957 - trOut_wilderness_chest_rare in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.917] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186816 - A1_Wilderness_DeadEndReward for LevelArea [LevelArea] 19954 - A1_trOut_TristramWilderness because there are less locations (6) than spawn amount (100, 100 min)
+[02.07.2017 16:05:14.917] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.918] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 138989 - HealthWell_Global in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.918] [Trace] [WorldGenerator]: Spawning 25 (15 - 25 [Encounter] 188589 - A1_Wilderness_ZombieCrawler_Custom in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.920] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 176071 - Clicky_Shrines for LevelArea [LevelArea] 19954 - A1_trOut_TristramWilderness because there are less locations (2) than spawn amount (4, 4 min)
+[02.07.2017 16:05:14.921] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 79988 - ravenFlock_5birds_A_fliesAway in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.921] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 79990 - ravenFlock_5birds_B_fliesAway in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.922] [Trace] [WorldGenerator]: Spawning 4 (3 - 4 [Actor] 79985 - Raven_Perched_fliesAway in [LevelArea] 19954 - A1_trOut_TristramWilderness
+[02.07.2017 16:05:14.955] [Trace] [WorldGenerator]: Spawning 6 (4 - 6 [Actor] 112200 - trOut_Wilderness_RockPile_A in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.956] [Trace] [WorldGenerator]: Spawning 10 (5 - 10 [Encounter] 187811 - Clicky_LootType2_Adventurer_Corpse in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.958] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 188113 - Clicky_LootType3_Mercenary_Corpse in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.958] [Trace] [WorldGenerator]: Spawning 9 (5 - 9 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.960] [Trace] [WorldGenerator]: Spawning 10 (6 - 10 [Actor] 116508 - trOut_Log_Highlands in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.961] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186908 - A1_Highlands_DeadEndReward for LevelArea [LevelArea] 19940 - A1_trOUT_Highlands because there are less locations (6) than spawn amount (100, 100 min)
+[02.07.2017 16:05:14.962] [Trace] [WorldGenerator]: Spawning 5 (2 - 5 [Actor] 77354 - Goatman_Weapon_Rack_trOut_Highlands in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.963] [Trace] [WorldGenerator]: Spawning 5 (2 - 5 [Actor] 77843 - Goatman_Tree_Knot_trOut_Goatmen in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.965] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 62865 - TrOut_Highlands_Chest in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.966] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 62866 - TrOut_Highlands_Chest_Rare in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.967] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 108092 - GoatmanLore_Corpse in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.967] [Trace] [WorldGenerator]: Spawning 3 (2 - 3 [Adventure] 130251 - A1_Highlands_Goatman_Drums_A in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.971] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 213526 - trout_highlands_goatman_trap_door in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.972] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Encounter] 99601 - trOut_Highlands_Withermoth_A_Hidden in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.972] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Adventure] 205996 - A1_Highlands_RollingLogTrap_GoatmanRanged in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.973] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 203481 - A1_Highlands_RollingLogTrap_Goats in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.975] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:14.975] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 138989 - HealthWell_Global in [LevelArea] 19940 - A1_trOUT_Highlands
+[02.07.2017 16:05:15.010] [Trace] [WorldGenerator]: Spawning 6 (2 - 6 [Actor] 112200 - trOut_Wilderness_RockPile_A in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.011] [Trace] [WorldGenerator]: Spawning 5 (4 - 5 [Encounter] 187811 - Clicky_LootType2_Adventurer_Corpse in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.011] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 188113 - Clicky_LootType3_Mercenary_Corpse in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.012] [Trace] [WorldGenerator]: Spawning 4 (2 - 4 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.012] [Trace] [WorldGenerator]: Spawning 5 (4 - 5 [Actor] 116508 - trOut_Log_Highlands in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.012] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186908 - A1_Highlands_DeadEndReward for LevelArea [LevelArea] 1199 - A1_trOUT_Highlands3 because there are less locations (3) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.013] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 77354 - Goatman_Weapon_Rack_trOut_Highlands in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.013] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 77843 - Goatman_Tree_Knot_trOut_Goatmen in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.013] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 62865 - TrOut_Highlands_Chest in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.014] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 62866 - TrOut_Highlands_Chest_Rare in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.014] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 86385 - trOut_Highlands_Goatman_Drum_A in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.014] [Trace] [WorldGenerator]: Spawning 3 (2 - 3 [Encounter] 77705 - Goatman_TrapDoors_Highlands in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.015] [Trace] [WorldGenerator]: Spawning 7 (5 - 7 [Encounter] 99601 - trOut_Highlands_Withermoth_A_Hidden in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.016] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Adventure] 203479 - A1_Highlands_RollingLogTrap_Cultists in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.021] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Adventure] 203481 - A1_Highlands_RollingLogTrap_Goats in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.021] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.023] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 138989 - HealthWell_Global in [LevelArea] 1199 - A1_trOUT_Highlands3
+[02.07.2017 16:05:15.029] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 112200 - trOut_Wilderness_RockPile_A for LevelArea [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard because there are less locations (9) than spawn amount (15, 10 min)
+[02.07.2017 16:05:15.030] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 64271 - trOut_Stump_Chest for LevelArea [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard because there are less locations (7) than spawn amount (8, 5 min)
+[02.07.2017 16:05:15.031] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 116508 - trOut_Log_Highlands for LevelArea [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard because there are less locations (2) than spawn amount (10, 6 min)
+[02.07.2017 16:05:15.031] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 77354 - Goatman_Weapon_Rack_trOut_Highlands for LevelArea [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard because there are less locations (4) than spawn amount (5, 2 min)
+[02.07.2017 16:05:15.031] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 62865 - TrOut_Highlands_Chest in [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard
+[02.07.2017 16:05:15.031] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 62866 - TrOut_Highlands_Chest_Rare in [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard
+[02.07.2017 16:05:15.032] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 108092 - GoatmanLore_Corpse for LevelArea [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard because there are less locations (0) than spawn amount (1, 1 min)
+[02.07.2017 16:05:15.032] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 86385 - trOut_Highlands_Goatman_Drum_A for LevelArea [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard because there are less locations (1) than spawn amount (8, 6 min)
+[02.07.2017 16:05:15.032] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 213526 - trout_highlands_goatman_trap_door for LevelArea [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard because there are less locations (1) than spawn amount (8, 5 min)
+[02.07.2017 16:05:15.033] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 99601 - trOut_Highlands_Withermoth_A_Hidden for LevelArea [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard because there are less locations (5) than spawn amount (7, 3 min)
+[02.07.2017 16:05:15.033] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 176071 - Clicky_Shrines for LevelArea [LevelArea] 129375 - A1_trOUT_Highlands_Sub240_GoatmanGraveyard because there are less locations (1) than spawn amount (3, 1 min)
+[02.07.2017 16:05:15.036] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 110769 - trDun_Cath_Barrel_Common_NoSkel in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.037] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 187811 - Clicky_LootType2_Adventurer_Corpse for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (0) than spawn amount (15, 10 min)
+[02.07.2017 16:05:15.037] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 464 - trDun_WeaponRack for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (0) than spawn amount (2, 1 min)
+[02.07.2017 16:05:15.038] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 96522 - a1dun_Cath_chest in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.040] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 96993 - a1dun_Cath_chest_Rare in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.041] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 85790 - Cath_Lecturn_ LachdanansScroll in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.042] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186777 - A1_Cath01_DeadEndReward for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (0) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.042] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 220919 - A1_Cathedral_CorpsePile_B in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.044] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 6442 - Waypoint for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (0) than spawn amount (1, 1 min)
+[02.07.2017 16:05:15.044] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.045] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 138989 - HealthWell_Global in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.045] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Adventure] 117941 - A1_Cath_Chandelier_Level04_A in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.045] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Adventure] 158114 - A1_Cathedral_DarkRitual_A in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.046] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Adventure] 158348 - A1_Cathedral_DarkRitual_B in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.046] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Adventure] 158349 - A1_Cathedral_DarkRitual_C in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.046] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Adventure] 158350 - A1_Cathedral_DarkRitual_D in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.047] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] -1 - Invalid handle in [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power
+[02.07.2017 16:05:15.047] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 19426 - Clicky_FloorSpawner for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (0) than spawn amount (20, 15 min)
+[02.07.2017 16:05:15.047] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 19408 - Clicky_Breakable_Painting for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (1) than spawn amount (20, 15 min)
+[02.07.2017 16:05:15.048] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 5951 - trDun_SkeletonSpawner_WallJump_01 for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (0) than spawn amount (9, 5 min)
+[02.07.2017 16:05:15.048] [Trace] [WorldGenerator]: Breaking after spawnEntry [Adventure] 139925 - a1trDun_Cath_AWRack_10ft_1A for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (0) than spawn amount (2, 1 min)
+[02.07.2017 16:05:15.051] [Trace] [WorldGenerator]: Breaking after spawnEntry [Adventure] 143341 - a1trDun_Cath_Barrel_20ft_5A_NoSkel for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (0) than spawn amount (2, 1 min)
+[02.07.2017 16:05:15.051] [Trace] [WorldGenerator]: Breaking after spawnEntry [Adventure] 143339 - a1trDun_Cath_Barrel_20ft_2A_Corner_NoSkel for LevelArea [LevelArea] 80116 - A1_trDun_Crypt_Event_Tower_Of_Power because there are less locations (0) than spawn amount (1, 1 min)
+[02.07.2017 16:05:15.054] [Trace] [WorldGenerator]: Spawning 6 (3 - 6 [Actor] 112200 - trOut_Wilderness_RockPile_A in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.054] [Trace] [WorldGenerator]: Spawning 4 (2 - 4 [Encounter] 187811 - Clicky_LootType2_Adventurer_Corpse in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.055] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 188113 - Clicky_LootType3_Mercenary_Corpse in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.055] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 64271 - trOut_Stump_Chest for LevelArea [LevelArea] 93632 - A1_trOUT_Highlands_Bridge because there are less locations (2) than spawn amount (4, 2 min)
+[02.07.2017 16:05:15.055] [Trace] [WorldGenerator]: Spawning 3 (1 - 3 [Actor] 116508 - trOut_Log_Highlands in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.055] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186908 - A1_Highlands_DeadEndReward for LevelArea [LevelArea] 93632 - A1_trOUT_Highlands_Bridge because there are less locations (1) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.056] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 77354 - Goatman_Weapon_Rack_trOut_Highlands in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.056] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 77843 - Goatman_Tree_Knot_trOut_Goatmen in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.056] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 62865 - TrOut_Highlands_Chest in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.057] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 62866 - TrOut_Highlands_Chest_Rare in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.057] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 108092 - GoatmanLore_Corpse in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.057] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 86385 - trOut_Highlands_Goatman_Drum_A in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.057] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 77705 - Goatman_TrapDoors_Highlands in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.058] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Encounter] 99601 - trOut_Highlands_Withermoth_A_Hidden in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.058] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 93632 - A1_trOUT_Highlands_Bridge
+[02.07.2017 16:05:15.058] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 138989 - HealthWell_Global for LevelArea [LevelArea] 93632 - A1_trOUT_Highlands_Bridge because there are less locations (0) than spawn amount (1, 0 min)
+[02.07.2017 16:05:15.063] [Trace] [WorldGenerator]: Spawning 20 (15 - 20 [Actor] 112200 - trOut_Wilderness_RockPile_A in [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes
+[02.07.2017 16:05:15.064] [Trace] [WorldGenerator]: Spawning 8 (5 - 8 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes
+[02.07.2017 16:05:15.065] [Trace] [WorldGenerator]: Spawning 8 (6 - 8 [Encounter] 187824 - Clicky_LootType2_TristramVillager_Male_Corpse in [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes
+[02.07.2017 16:05:15.065] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 123244 - ravenFlock_A_Corpse in [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes
+[02.07.2017 16:05:15.066] [Trace] [WorldGenerator]: Spawning 7 (5 - 7 [Actor] 113932 - Trout_Log in [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes
+[02.07.2017 16:05:15.067] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 78790 - trOut_wilderness_chest for LevelArea [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes because there are less locations (0) than spawn amount (2, 1 min)
+[02.07.2017 16:05:15.067] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 84742 - trOut_Wilderness_Grave_Chest for LevelArea [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes because there are less locations (0) than spawn amount (2, 1 min)
+[02.07.2017 16:05:15.067] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 78957 - trOut_wilderness_chest_rare in [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes
+[02.07.2017 16:05:15.068] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 19415 - Invalid handle for LevelArea [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes because there are less locations (0) than spawn amount (2, 1 min)
+[02.07.2017 16:05:15.068] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 123159 - Spawner_ZombieCrawler_Custom_B3 for LevelArea [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes because there are less locations (4) than spawn amount (25, 15 min)
+[02.07.2017 16:05:15.068] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 19415 - Invalid handle for LevelArea [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes because there are less locations (0) than spawn amount (4, 4 min)
+[02.07.2017 16:05:15.070] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 79988 - ravenFlock_5birds_A_fliesAway for LevelArea [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes because there are less locations (0) than spawn amount (1, 1 min)
+[02.07.2017 16:05:15.071] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 79990 - ravenFlock_5birds_B_fliesAway for LevelArea [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes because there are less locations (0) than spawn amount (1, 1 min)
+[02.07.2017 16:05:15.071] [Trace] [WorldGenerator]: Spawning 4 (3 - 4 [Actor] 79985 - Raven_Perched_fliesAway in [LevelArea] 145066 - A1_trOut_TristramWilderness_SubScenes
+[02.07.2017 16:05:15.098] [Trace] [WorldGenerator]: Spawning 10 (8 - 10 [Encounter] 187811 - Clicky_LootType2_Adventurer_Corpse in [LevelArea] 19943 - A1_trOUT_Leoric'sManor
+[02.07.2017 16:05:15.099] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 188113 - Clicky_LootType3_Mercenary_Corpse in [LevelArea] 19943 - A1_trOUT_Leoric'sManor
+[02.07.2017 16:05:15.099] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 62865 - TrOut_Highlands_Chest in [LevelArea] 19943 - A1_trOUT_Leoric'sManor
+[02.07.2017 16:05:15.100] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 5891 - trDun_Lecturn_ Leoric's Journal for LevelArea [LevelArea] 19943 - A1_trOUT_Leoric'sManor because there are less locations (2) than spawn amount (3, 1 min)
+[02.07.2017 16:05:15.101] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186908 - A1_Highlands_DeadEndReward for LevelArea [LevelArea] 19943 - A1_trOUT_Leoric'sManor because there are less locations (2) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.101] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 62866 - TrOut_Highlands_Chest_Rare in [LevelArea] 19943 - A1_trOUT_Leoric'sManor
+[02.07.2017 16:05:15.101] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 3795 - Checkpoint for LevelArea [LevelArea] 19943 - A1_trOUT_Leoric'sManor because there are less locations (0) than spawn amount (1, 1 min)
+[02.07.2017 16:05:15.101] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 19943 - A1_trOUT_Leoric'sManor
+[02.07.2017 16:05:15.102] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 138989 - HealthWell_Global in [LevelArea] 19943 - A1_trOUT_Leoric'sManor
+[02.07.2017 16:05:15.102] [Trace] [WorldGenerator]: Breaking after spawnEntry [Adventure] 174812 - A1_Leorics_VesselCircleSmall for LevelArea [LevelArea] 19943 - A1_trOUT_Leoric'sManor because there are less locations (0) than spawn amount (2, 1 min)
+[02.07.2017 16:05:15.103] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 90150 - a1dun_Leor_Fire_Gutter_Light for LevelArea [LevelArea] 19943 - A1_trOUT_Leoric'sManor because there are less locations (0) than spawn amount (12, 8 min)
+[02.07.2017 16:05:15.108] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 112200 - trOut_Wilderness_RockPile_A in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.108] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Encounter] 187811 - Clicky_LootType2_Adventurer_Corpse in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.109] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 187899 - Clicky_LootType3_TristramGuard_Corpse in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.109] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 84742 - trOut_Wilderness_Grave_Chest in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.109] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 87430 - trOut_Wilderness_Coffin_Spawner in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.109] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 78957 - trOut_wilderness_chest_rare in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.110] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186816 - A1_Wilderness_DeadEndReward for LevelArea [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds because there are less locations (1) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.110] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.110] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 138989 - HealthWell_Global in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.111] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 79988 - ravenFlock_5birds_A_fliesAway in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.111] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 79990 - ravenFlock_5birds_B_fliesAway in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.111] [Trace] [WorldGenerator]: Spawning 3 (2 - 3 [Actor] 79985 - Raven_Perched_fliesAway in [LevelArea] 72712 - A1_trOut_Wilderness_BurialGrounds
+[02.07.2017 16:05:15.148] [Trace] [WorldGenerator]: Spawning 11 (7 - 11 [Actor] 112200 - trOut_Wilderness_RockPile_A in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.148] [Trace] [WorldGenerator]: Spawning 8 (6 - 8 [Encounter] 187811 - Clicky_LootType2_Adventurer_Corpse in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.149] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Encounter] 188113 - Clicky_LootType3_Mercenary_Corpse in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.149] [Trace] [WorldGenerator]: Spawning 8 (6 - 8 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.150] [Trace] [WorldGenerator]: Spawning 8 (6 - 8 [Actor] 116508 - trOut_Log_Highlands in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.150] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186908 - A1_Highlands_DeadEndReward for LevelArea [LevelArea] 19941 - A1_trOUT_Highlands2 because there are less locations (4) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.150] [Trace] [WorldGenerator]: Spawning 6 (5 - 6 [Actor] 77354 - Goatman_Weapon_Rack_trOut_Highlands in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.151] [Trace] [WorldGenerator]: Spawning 6 (5 - 6 [Actor] 77843 - Goatman_Tree_Knot_trOut_Goatmen in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.151] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 62865 - TrOut_Highlands_Chest in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.152] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 62866 - TrOut_Highlands_Chest_Rare in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.152] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 108092 - GoatmanLore_Corpse in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.152] [Trace] [WorldGenerator]: Spawning 3 (2 - 3 [Actor] 86385 - trOut_Highlands_Goatman_Drum_A in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.152] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Encounter] 77705 - Goatman_TrapDoors_Highlands in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.153] [Trace] [WorldGenerator]: Spawning 3 (2 - 3 [Encounter] 99601 - trOut_Highlands_Withermoth_A_Hidden in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.153] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Adventure] 203481 - A1_Highlands_RollingLogTrap_Goats in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.154] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Adventure] 203480 - A1_Highlands_RollingLogTrap_Fleshpit in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.158] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Encounter] 176071 - Clicky_Shrines in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.159] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 138989 - HealthWell_Global in [LevelArea] 19941 - A1_trOUT_Highlands2
+[02.07.2017 16:05:15.176] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 101192 - trOut_Barrel_Common in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.177] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 112165 - trOut_OldTristram_BonePile_A in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.177] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.178] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 79016 - trOut_Tristram_chest in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.179] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 81338 - TrOut_Tristram_Chest_Rare in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.179] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 85791 - OldTristram_Lore in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.180] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186750 - A1_OldTristram_DeadEndReward for LevelArea [LevelArea] 91324 - A1_trOut_Old_Tristram_Road because there are less locations (5) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.180] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Adventure] 199493 - A1_OldTristram_Edge_x10_A in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.181] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 199494 - A1_OldTristram_Edge_x10_B in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.181] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 199495 - A1_OldTristram_Edge_x10_C in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.182] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 199496 - A1_OldTristram_Edge_x10_D in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.183] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Adventure] 121018 - A1_WretchedMother in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.186] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Adventure] 121018 - A1_WretchedMother in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.187] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Adventure] 121018 - A1_WretchedMother in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.187] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] -1 - Invalid handle in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.188] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] -1 - Invalid handle in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.188] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] -1 - Invalid handle in [LevelArea] 91324 - A1_trOut_Old_Tristram_Road
+[02.07.2017 16:05:15.193] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 101192 - trOut_Barrel_Common in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.194] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 112165 - trOut_OldTristram_BonePile_A in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.194] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.194] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 79016 - trOut_Tristram_chest in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.195] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Actor] 85791 - OldTristram_Lore in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.195] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186750 - A1_OldTristram_DeadEndReward for LevelArea [LevelArea] 91133 - A1_trOut_Old_Tristram because there are less locations (4) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.197] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 199493 - A1_OldTristram_Edge_x10_A in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.197] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Adventure] 199494 - A1_OldTristram_Edge_x10_B in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.197] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 199495 - A1_OldTristram_Edge_x10_C in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.198] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Adventure] 199496 - A1_OldTristram_Edge_x10_D in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.198] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Adventure] 121018 - A1_WretchedMother in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.198] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Adventure] 121018 - A1_WretchedMother in [LevelArea] 91133 - A1_trOut_Old_Tristram
+[02.07.2017 16:05:15.203] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 101192 - trOut_Barrel_Common in [LevelArea] 101351 - A1_trOut_Old_Tristram_Road_Cath
+[02.07.2017 16:05:15.203] [Trace] [WorldGenerator]: Spawning 3 (1 - 3 [Actor] 91363 - trOut_Bone_Cairn in [LevelArea] 101351 - A1_trOut_Old_Tristram_Road_Cath
+[02.07.2017 16:05:15.204] [Trace] [WorldGenerator]: Spawning 3 (1 - 3 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 101351 - A1_trOut_Old_Tristram_Road_Cath
+[02.07.2017 16:05:15.204] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 79016 - trOut_Tristram_chest in [LevelArea] 101351 - A1_trOut_Old_Tristram_Road_Cath
+[02.07.2017 16:05:15.204] [Trace] [WorldGenerator]: Spawning 2 (1 - 2 [Actor] 85791 - OldTristram_Lore in [LevelArea] 101351 - A1_trOut_Old_Tristram_Road_Cath
+[02.07.2017 16:05:15.206] [Trace] [WorldGenerator]: Breaking after spawnEntry [Actor] 166389 - PlacedGold for LevelArea [LevelArea] 101351 - A1_trOut_Old_Tristram_Road_Cath because there are less locations (0) than spawn amount (4, 1 min)
+[02.07.2017 16:05:15.207] [Trace] [WorldGenerator]: Spawning 1 (1 - 1 [Adventure] 121018 - A1_WretchedMother in [LevelArea] 101351 - A1_trOut_Old_Tristram_Road_Cath
+[02.07.2017 16:05:15.209] [Trace] [WorldGenerator]: Spawning 4 (3 - 4 [Actor] 101192 - trOut_Barrel_Common in [LevelArea] 19929 - A1_trOUT_Adria'sHut
+[02.07.2017 16:05:15.210] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 19929 - A1_trOUT_Adria'sHut
+[02.07.2017 16:05:15.210] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 79016 - trOut_Tristram_chest in [LevelArea] 19929 - A1_trOUT_Adria'sHut
+[02.07.2017 16:05:15.211] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186750 - A1_OldTristram_DeadEndReward for LevelArea [LevelArea] 19933 - A1_trOUT_Church because there are less locations (3) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.220] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Encounter] 187899 - Clicky_LootType3_TristramGuard_Corpse in [LevelArea] 19938 - A1_trOUT_Graveyard
+[02.07.2017 16:05:15.221] [Trace] [WorldGenerator]: Spawning 2 (0 - 2 [Actor] 64271 - trOut_Stump_Chest in [LevelArea] 19938 - A1_trOUT_Graveyard
+[02.07.2017 16:05:15.222] [Trace] [WorldGenerator]: Spawning 1 (0 - 1 [Actor] 79016 - trOut_Tristram_chest in [LevelArea] 19938 - A1_trOUT_Graveyard
+[02.07.2017 16:05:15.222] [Trace] [WorldGenerator]: Breaking after spawnEntry [Encounter] 186750 - A1_OldTristram_DeadEndReward for LevelArea [LevelArea] 19938 - A1_trOUT_Graveyard because there are less locations (2) than spawn amount (100, 100 min)
+[02.07.2017 16:05:15.275] [ Info] [ClientManager]: Player teataet[PlayerIndex: 0] connected.
+[02.07.2017 16:05:15.278] [Trace] [ClientManager]: Log in time:1498986315
+[02.07.2017 16:05:15.487] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Misc.SimpleMessage - ID:51 has no consumer or self-handler.
+[02.07.2017 16:05:15.497] [ Warn] [MooNetRouter]: Unimplemented service method: ChannelService.UpdateMemberState
+[02.07.2017 16:05:28.950] [Debug] [PowerLoader]: Unimplemented power: 30022
+[02.07.2017 16:05:28.970] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Misc.SimpleMessage - ID:320 has no consumer or self-handler.
+[02.07.2017 16:05:31.266] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Artisan.ArtisanWindowClosedMessage - ID:33 has no consumer or self-handler.
+[02.07.2017 16:05:35.478] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:05:38.175] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:05:41.939] [Debug] [PowerLoader]: Unimplemented power: 30022
+[02.07.2017 16:05:42.489] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Misc.SimpleMessage - ID:302 has no consumer or self-handler.
+[02.07.2017 16:05:43.527] [Debug] [PowerLoader]: Unimplemented power: 30022
+[02.07.2017 16:05:44.277] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Misc.SimpleMessage - ID:302 has no consumer or self-handler.
+[02.07.2017 16:05:44.474] [Debug] [PowerLoader]: Unimplemented power: 30022
+[02.07.2017 16:05:44.669] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Misc.SimpleMessage - ID:302 has no consumer or self-handler.
+[02.07.2017 16:05:44.727] [Debug] [PowerLoader]: Unimplemented power: 30022
+[02.07.2017 16:05:45.174] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Misc.SimpleMessage - ID:302 has no consumer or self-handler.
+[02.07.2017 16:05:45.572] [Debug] [PowerLoader]: Unimplemented power: 30022
+[02.07.2017 16:05:46.118] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Misc.SimpleMessage - ID:302 has no consumer or self-handler.
+[02.07.2017 16:05:47.842] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:05:52.936] [Debug] [PowerLoader]: Unimplemented power: 30022
+[02.07.2017 16:05:58.407] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:05:58.691] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:06:00.903] [Debug] [PowerLoader]: Unimplemented power: 30022
+[02.07.2017 16:06:01.154] [Debug] [PowerLoader]: Unimplemented power: 30022
+[02.07.2017 16:06:01.702] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Trade.TradeMessage - ID:169 has no consumer or self-handler.
+[02.07.2017 16:06:01.881] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Trade.TradeMessage - ID:169 has no consumer or self-handler.
+[02.07.2017 16:06:02.075] [ Warn] [GameClient]: Mooege.Net.GS.Message.Definitions.Trade.TradeMessage - ID:169 has no consumer or self-handler.
+[02.07.2017 16:06:20.121] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:22.942] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:23.879] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:06:24.450] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:26.062] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:29.096] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:06:29.460] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:06:29.978] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:06:31.806] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:32.712] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:40.066] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:40.772] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:41.679] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:43.703] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:44.628] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:06:47.897] [Debug] [SkillSet]: SkillSet: SwitchUpdateSkill Oldskill -1 Newskill 80028
+[02.07.2017 16:06:47.898] [Debug] [SkillSet]: Update index 1 skill 80028 rune -1
+[02.07.2017 16:06:50.946] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:56.083] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:56.787] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:06:59.324] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:06:59.672] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:07:02.324] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:03.131] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:04.124] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:07:05.091] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:07:11.302] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:07:11.340] [Trace] [WorldGenerator]: Spawning 3 (2 - 3 [Actor] 101192 - trOut_Barrel_Common in [LevelArea] 107051 - A1_trOut_OldTristram_Cellar
+[02.07.2017 16:07:11.341] [Trace] [WorldGenerator]: Spawning 2 (0 - 2 [Encounter] 187824 - Clicky_LootType2_TristramVillager_Male_Corpse in [LevelArea] 107051 - A1_trOut_OldTristram_Cellar
+[02.07.2017 16:07:11.341] [Trace] [WorldGenerator]: Spawning 0 (0 - 0 [Actor] 79016 - trOut_Tristram_chest in [LevelArea] 107051 - A1_trOut_OldTristram_Cellar
+[02.07.2017 16:07:12.788] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:07:12.790] [ Warn] [TreasureClass]: Treasure classes not implemented, using generic treasure class
+[02.07.2017 16:07:14.504] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:15.576] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:07:20.547] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:22.291] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:07:25.115] [Debug] [PowerLoader]: Unimplemented power: 30021
+[02.07.2017 16:07:25.116] [ Warn] [TreasureClass]: Treasure classes not implemented, using generic treasure class
+[02.07.2017 16:07:32.131] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:36.664] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:38.862] [Trace] [ClientManager]: Client disconnected: 192.168.100.2:55739
+[02.07.2017 16:07:38.868] [Trace] [AchievementService]: Unregister()
+[02.07.2017 16:07:38.869] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:07:38.870] [Trace] [ChannelService]: D3.Party.ScreenStatus = null
+[02.07.2017 16:07:38.870] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:07:38.870] [ Warn] [RPCObject]: Emtpy-field: 17459, 4, 1
+[02.07.2017 16:07:38.871] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:38.871] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 1
+[02.07.2017 16:07:38.871] [Trace] [RPCObject]: { GameAccount: mooege#0020 [lowId: 26990464] } set current screen to 0.
+[02.07.2017 16:07:38.873] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:38.873] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 2
+[02.07.2017 16:07:38.873] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:38.874] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 3
+[02.07.2017 16:07:38.877] [Trace] [ChannelService]: RemoveMember()
+[02.07.2017 16:07:38.895] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <RemoveMember>b__1a() Target: { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 6, remoteId: 8].
+[02.07.2017 16:07:38.897] [Trace] [MooNetClient]: Client removed from CurrentChannel: { Channel: [id: 7] [owner: { Toon: teataet [lowId: 2452589540] }] }, setting new CurrentChannel to { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:07:38.897] [ Warn] [RPCObject]: Client { Client: test@ } left party channel { Channel: [id: 6] [owner: { Toon: teataet [lowId: 2452589540] }] }.
+[02.07.2017 16:07:38.898] [Debug] [ChannelManager]: Dissolving channel 6
+[02.07.2017 16:07:38.901] [ Warn] [RPCObject]: Emtpy-field: 17459, 4, 1
+[02.07.2017 16:07:38.901] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:07:38.901] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 1
+[02.07.2017 16:07:38.913] [Trace] [ConnectionService]: RequestDisconnect()
+[02.07.2017 16:07:39.715] [Trace] [MooNetServer]: Client disconnected: 192.168.100.2:55725
+[02.07.2017 16:07:39.716] [ Warn] [RPCObject]: Subscriber: { Account: test@ [lowId: 26990464] } not online.
+[02.07.2017 16:08:20.692] [Trace] [MooNetServer]: MooNet-Client connected: 192.168.100.2:55853
+[02.07.2017 16:08:20.694] [Trace] [ConnectionService]: Connect()
+[02.07.2017 16:08:20.694] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:08:20.695] [Trace] [ConnectionService]: [export] Hash: 0xB732DB32 Id: 0x10 Service: ChannelService 
+[02.07.2017 16:08:20.695] [Trace] [ConnectionService]: [export] Hash: 0xFA0796FF Id: 0x0B Service: PresenceService 
+[02.07.2017 16:08:20.695] [Trace] [ConnectionService]: [import] Hash: 0xBF8C8094 Id: 0x01
+[02.07.2017 16:08:20.696] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:08:20.696] [Trace] [ConnectionService]: [export] Hash: 0x0DECFC01 Id: 0x01 Service: AuthenticationService 
+[02.07.2017 16:08:20.696] [Trace] [ConnectionService]: [import] Hash: 0x71240E35 Id: 0x02
+[02.07.2017 16:08:20.697] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:08:20.697] [Trace] [ConnectionService]: [export] Hash: 0x43487D3D Id: 0x20 Service: AchievementService 
+[02.07.2017 16:08:20.697] [Trace] [ConnectionService]: [import] Hash: 0xD4DCD093 Id: 0x03
+[02.07.2017 16:08:20.697] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:08:20.698] [Trace] [ConnectionService]: [export] Hash: 0xDBBF6F19 Id: 0x65 Service: N/A 
+[02.07.2017 16:08:20.698] [Trace] [ConnectionService]: [import] Hash: 0xBBDA171F Id: 0x04
+[02.07.2017 16:08:20.698] [Trace] [ConnectionService]: Bind(): { Client: ?? }
+[02.07.2017 16:08:20.698] [Trace] [ConnectionService]: [export] Hash: 0x7CAF61C9 Id: 0x66 Service: N/A 
+[02.07.2017 16:08:20.710] [Trace] [AuthenticationService]: LogonRequest(): Email=test@
+[02.07.2017 16:08:20.710] [Trace] [VersionChecker]: Client Info: user: test@ program: D3  platform: Win locale: enUS version: 8815 [Aurora 4a39a60e1b_public/319 (Mar  6 2012 13:53:45)]  app_version: 8815.
+[02.07.2017 16:08:20.738] [Trace] [MooNetClient]: [RPC: { Client: ?? }] Method: Void <InitAuthentication>b__0() Target: N/A
+[02.07.2017 16:08:20.762] [Trace] [MooNetRouter]: RPCReply => Google.ProtocolBuffers.RpcUtil+<>c__DisplayClass4`2[bnet.protocol.authentication.ModuleLoadResponse,bnet.protocol.authentication.ModuleLoadResponse+Builder]
+[02.07.2017 16:08:20.763] [Trace] [AuthManager]: ModuleLoadResponse(): module_id: 0
+
+[02.07.2017 16:08:20.798] [Trace] [AuthenticationService]: ModuleMessage(): command: 2
+[02.07.2017 16:08:20.833] [Trace] [MooNetClient]: [RPC: { Client: ?? }] Method: Void <HandleAuthResponse>b__3() Target: N/A
+[02.07.2017 16:08:20.833] [ Info] [AuthenticationService]: User test@ authenticated successfuly.
+[02.07.2017 16:08:20.834] [Trace] [MooNetRouter]: RPCReply => Google.ProtocolBuffers.RpcUtil+<>c__DisplayClass4`2[bnet.protocol.NoData,bnet.protocol.NoData+Builder]
+[02.07.2017 16:08:20.834] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <EnableEncryption>b__0() Target: N/A
+[02.07.2017 16:08:20.835] [Trace] [AuthenticationService]: SelectGameAccount(): { GameAccount: mooege#0020 [lowId: 26990464] }
+[02.07.2017 16:08:20.835] [Trace] [MooNetRouter]: RPCReply => Google.ProtocolBuffers.RpcUtil+<>c__DisplayClass4`2[bnet.protocol.NoData,bnet.protocol.NoData+Builder]
+[02.07.2017 16:08:20.838] [Trace] [PresenceService]: Subscribe() { Client: test@ } { Account: test@ [lowId: 26990464] }
+[02.07.2017 16:08:20.839] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: { Account: test@ [lowId: 26990464] } [localId: 2, remoteId: 1].
+[02.07.2017 16:08:20.839] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: { Account: test@ [lowId: 26990464] } [localId: 2, remoteId: 1].
+[02.07.2017 16:08:20.840] [Trace] [PresenceService]: Subscribe() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] }
+[02.07.2017 16:08:20.841] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:08:20.843] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.844] [Fatal] [MooNetClient]: OnTSLAuthentication() exception:  - [Exception] OpenSSL.Core.OpenSslException: error:1408A0C1:SSL routines:SSL3_GET_CLIENT_HELLO:no shared cipher
+   at OpenSSL.SslStreamBase.EndRead(IAsyncResult asyncResult)
+   at OpenSSL.SslStream.EndRead(IAsyncResult asyncResult)
+   at OpenSSL.SslStream.EndAuthenticateAsServer(IAsyncResult ar)
+   at Mooege.Net.MooNet.MooNetClient.OnTSLAuthentication(IAsyncResult result)
+[02.07.2017 16:08:20.844] [Trace] [MooNetClient]: TLSStream: authenticated: True, signed: True, encrypted: True, cipher: None cipher-strength: 0, hash algorithm: None, hash-strength: 0, key-exchange algorithm: None, key-exchange strength: 0, protocol: None
+[02.07.2017 16:08:20.844] [Trace] [ConnectionService]: [export] Hash: 0xA3DDB1BD Id: 0x06 Service: FriendsService 
+[02.07.2017 16:08:20.845] [Trace] [ConnectionService]: [import] Hash: 0x6F259A13 Id: 0x06
+[02.07.2017 16:08:20.845] [Trace] [MooNetClient]: Local certificate was issued to CN=Mooege by CN=Mooege and is valid from 07/02/2017 16:05:03 until 07/02/2018 16:05:03.
+[02.07.2017 16:08:20.846] [Trace] [AchievementService]: Initialize()
+[02.07.2017 16:08:20.846] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <SendAccountSettings>b__a() Target: N/A
+[02.07.2017 16:08:20.846] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.846] [Trace] [ConnectionService]: [export] Hash: 0x060CA08D Id: 0x11 Service: ChannelOwnerService 
+[02.07.2017 16:08:20.847] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.847] [Trace] [ConnectionService]: [export] Hash: 0x060CA08D Id: 0x11 Service: ChannelOwnerService 
+[02.07.2017 16:08:20.847] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.848] [Trace] [ConnectionService]: [export] Hash: 0xECBE75BA Id: 0x0D Service: ResourceService 
+[02.07.2017 16:08:20.848] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.849] [Trace] [ConnectionService]: [export] Hash: 0x810CB195 Id: 0x07 Service: GameMasterService 
+[02.07.2017 16:08:20.849] [Trace] [ConnectionService]: [export] Hash: 0x3FC1274D Id: 0x08 Service: GameUtilitiesService 
+[02.07.2017 16:08:20.849] [Trace] [ConnectionService]: [export] Hash: 0x060CA08D Id: 0x11 Service: ChannelOwnerService 
+[02.07.2017 16:08:20.849] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.850] [Trace] [ConnectionService]: [export] Hash: 0xD750148B Id: 0x0A Service: ExchangeService 
+[02.07.2017 16:08:20.850] [Trace] [ConnectionService]: [import] Hash: 0x166FE4A1 Id: 0x07
+[02.07.2017 16:08:20.850] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.850] [Trace] [ConnectionService]: [export] Hash: 0x0A24A291 Id: 0x0E Service: SearchService 
+[02.07.2017 16:08:20.851] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.853] [Trace] [ConnectionService]: [export] Hash: 0x0CBE3C43 Id: 0x0C Service: NotificationService 
+[02.07.2017 16:08:20.853] [Trace] [ConnectionService]: [import] Hash: 0xE1CB2EA8 Id: 0x08
+[02.07.2017 16:08:20.854] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.854] [Trace] [ConnectionService]: [export] Hash: 0x83040608 Id: 0x03 Service: ChannelInvitationService 
+[02.07.2017 16:08:20.854] [Trace] [ConnectionService]: [import] Hash: 0xF084FC20 Id: 0x09
+[02.07.2017 16:08:20.855] [Trace] [ConnectionService]: Bind(): { Client: test@ }
+[02.07.2017 16:08:20.855] [Trace] [ConnectionService]: [export] Hash: 0x3E19268A Id: 0x05 Service: UserManagerService 
+[02.07.2017 16:08:20.855] [Trace] [ConnectionService]: [import] Hash: 0xBC872C22 Id: 0x0A
+[02.07.2017 16:08:20.856] [Trace] [FriendsService]: Subscribe() { Client: test@ }
+[02.07.2017 16:08:20.856] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: Mooege.Core.MooNet.Friends.FriendManager [localId: 4, remoteId: 3].
+[02.07.2017 16:08:20.856] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: Mooege.Core.MooNet.Friends.FriendManager [localId: 4, remoteId: 3].
+[02.07.2017 16:08:20.857] [Trace] [ResourceService]: GetContentHandle(): ProgramId: 0x0000424E StreamId: 0x61706674 Locale: 0x656E5553
+[02.07.2017 16:08:20.857] [ Warn] [MooNetRouter]: Unimplemented service method: ResourceService.GetContentHandle
+[02.07.2017 16:08:20.857] [Trace] [ResourceService]: GetContentHandle(): ProgramId: 0x00004433 StreamId: 0x61706674 Locale: 0x656E5553
+[02.07.2017 16:08:20.858] [ Warn] [MooNetRouter]: Unimplemented service method: ResourceService.GetContentHandle
+[02.07.2017 16:08:20.858] [Trace] [ChannelInvitationService]: Subscribe() { Client: test@ }
+[02.07.2017 16:08:20.859] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: Mooege.Core.MooNet.Channels.ChannelInvitationManager [localId: 1, remoteId: 4].
+[02.07.2017 16:08:20.859] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <MakeRPC>b__7() Target: Mooege.Core.MooNet.Channels.ChannelInvitationManager [localId: 1, remoteId: 4].
+[02.07.2017 16:08:20.859] [Trace] [UserManagerService]: Subscribe() { Client: test@ }
+[02.07.2017 16:08:20.876] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 7
+[02.07.2017 16:08:20.876] [Trace] [GameMasterService]: ListFactories() { Client: test@ }
+[02.07.2017 16:08:20.897] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 19
+[02.07.2017 16:08:20.898] [Trace] [GameUtilitiesService]: GetHeroList()
+[02.07.2017 16:08:20.912] [Trace] [AchievementService]: Register()
+[02.07.2017 16:08:20.913] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:08:20.914] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	BNet, GameAccount, 8
+[02.07.2017 16:08:20.915] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 0
+[02.07.2017 16:08:20.915] [Trace] [GameUtilitiesService]: GetHeroDigestList()
+[02.07.2017 16:08:20.916] [Trace] [ResourceService]: GetContentHandle(): ProgramId: 0x00004433 StreamId: 0x72707273 Locale: 0x656E5553
+[02.07.2017 16:08:20.916] [ Warn] [MooNetRouter]: Unimplemented service method: ResourceService.GetContentHandle
+[02.07.2017 16:08:20.926] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 1
+[02.07.2017 16:08:20.926] [Trace] [GameUtilitiesService]: GetAccountDigest()
+[02.07.2017 16:08:20.940] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 16
+[02.07.2017 16:08:20.941] [Trace] [ChannelOwnerService]: FindChannel(): Filter=op: MATCH_ALL
+
+[02.07.2017 16:08:20.941] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 4
+[02.07.2017 16:08:20.943] [Trace] [GameUtilitiesService]: SelectToon() { Toon: teataet [lowId: 2452589540] }
+[02.07.2017 16:08:20.991] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 9
+[02.07.2017 16:08:20.991] [Trace] [GameUtilitiesService]: GetToonSettings
+[02.07.2017 16:08:20.995] [Trace] [ExchangeService]: SubscribeOrderStatusChange() Stub
+[02.07.2017 16:08:20.996] [Trace] [ChannelOwnerService]: CreateChannel() { Channel: [id: 8] [owner: N/A] } for { Toon: teataet [lowId: 2452589540] }
+[02.07.2017 16:08:20.996] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <AddMember>b__7() Target: { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 8, remoteId: 8].
+[02.07.2017 16:08:20.996] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <AddMember>b__9() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:08:21.011] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 1
+[02.07.2017 16:08:21.012] [Trace] [RPCObject]: { GameAccount: mooege#0020 [lowId: 26990464] } set current screen to 3.
+[02.07.2017 16:08:21.012] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:08:21.013] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 2
+[02.07.2017 16:08:21.013] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:08:21.013] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 3
+[02.07.2017 16:08:21.014] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:08:21.014] [Trace] [ChannelService]: D3.Party.GameCreateParams: game_type: 1
+creation_flags: 0
+coop {
+  difficulty_level: 0
+  act: 0
+  sno_quest: 87700
+  quest_step_id: -1
+  open_to_friends: true
+  open_to_friends_message: ""
+}
+name: "teataet"
+
+[02.07.2017 16:08:21.014] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 8, remoteId: 8].
+[02.07.2017 16:08:21.015] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:08:21.015] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 4
+[02.07.2017 16:08:21.530] [Trace] [ExchangeService]: GetConfiguration()
+[02.07.2017 16:08:21.531] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:08:21.531] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <SendServerWhisper>b__4() Target: N/A
+[02.07.2017 16:08:21.532] [Trace] [ChannelService]: Client moving to Screen: 3, with Status: 0
+[02.07.2017 16:08:21.532] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 8, remoteId: 8].
+[02.07.2017 16:08:24.773] [Trace] [ExchangeService]: GetPaymentMethods()
+[02.07.2017 16:08:24.788] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 13
+[02.07.2017 16:08:24.790] [Trace] [GameUtilitiesService]: GetAccountItems()
+[02.07.2017 16:08:24.792] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 12
+[02.07.2017 16:08:24.795] [Trace] [GameUtilitiesService]: GetHeroItems()
+[02.07.2017 16:08:24.855] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.QueryOrdersByAccountForItem
+[02.07.2017 16:08:24.856] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.QueryOrdersByAccountForItem
+[02.07.2017 16:08:24.879] [ Warn] [MooNetRouter]: Unimplemented service method: SearchService.FindMatches
+[02.07.2017 16:08:24.880] [Trace] [GameUtilitiesService]: ProcessClientRequest() ID: 8
+[02.07.2017 16:08:24.883] [Trace] [GameUtilitiesService]: SetGameAccountSettings()
+[02.07.2017 16:08:25.948] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.GetNotClosedOfferCount
+[02.07.2017 16:08:26.414] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.GetNotClosedOfferCount
+[02.07.2017 16:08:26.417] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.QueryOrdersByAccountForItem
+[02.07.2017 16:08:26.417] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.QueryOrdersByAccountForItem
+[02.07.2017 16:08:27.383] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.GetNotClosedOfferCount
+[02.07.2017 16:08:27.384] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.QueryOrdersByAccountForItem
+[02.07.2017 16:08:27.384] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.QueryOrdersByAccountForItem
+[02.07.2017 16:08:28.687] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.GetNotClosedOfferCount
+[02.07.2017 16:08:31.108] [ Warn] [MooNetRouter]: Unimplemented service method: SearchService.FindMatches
+[02.07.2017 16:08:31.868] [ Warn] [MooNetRouter]: Unimplemented service method: ExchangeService.GetNotClosedOfferCount
+[02.07.2017 16:08:44.263] [Trace] [ExchangeService]: UnsubscribeOrderStatusChange() Stub
+[02.07.2017 16:08:44.264] [Trace] [AchievementService]: Unregister()
+[02.07.2017 16:08:44.265] [Trace] [ChannelService]: UpdateChannelState(): { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] }
+[02.07.2017 16:08:44.265] [Trace] [ChannelService]: D3.Party.ScreenStatus = null
+[02.07.2017 16:08:44.266] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateChannelState>b__0() Target: { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 8, remoteId: 8].
+[02.07.2017 16:08:44.266] [ Warn] [RPCObject]: Emtpy-field: 17459, 4, 1
+[02.07.2017 16:08:44.266] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:08:44.267] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 1
+[02.07.2017 16:08:44.267] [Trace] [RPCObject]: { GameAccount: mooege#0020 [lowId: 26990464] } set current screen to 0.
+[02.07.2017 16:08:44.268] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:08:44.268] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 2
+[02.07.2017 16:08:44.268] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <UpdateSubscribers>b__0() Target: { GameAccount: mooege#0020 [lowId: 26990464] } [localId: 3, remoteId: 2].
+[02.07.2017 16:08:44.269] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 3
+[02.07.2017 16:08:44.269] [Trace] [ChannelService]: RemoveMember()
+[02.07.2017 16:08:44.270] [Trace] [MooNetClient]: [RPC: { Client: test@ }] Method: Void <RemoveMember>b__1a() Target: { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] } [localId: 8, remoteId: 8].
+[02.07.2017 16:08:44.270] [Trace] [MooNetClient]: Client removed from CurrentChannel: { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] }, setting new CurrentChannel to 
+[02.07.2017 16:08:44.270] [ Warn] [RPCObject]: Client { Client: test@ } left party channel { Channel: [id: 8] [owner: { Toon: teataet [lowId: 2452589540] }] }.
+[02.07.2017 16:08:44.271] [Debug] [ChannelManager]: Dissolving channel 8
+[02.07.2017 16:08:44.275] [Trace] [PresenceService]: Update() { Client: test@ } { GameAccount: mooege#0020 [lowId: 26990464] } - 1 Operations	D3, Party, 1
+[02.07.2017 16:08:44.286] [Trace] [ConnectionService]: RequestDisconnect()
+[02.07.2017 16:08:44.324] [Trace] [MooNetServer]: Client disconnected: 192.168.100.2:55853
+[02.07.2017 16:08:44.325] [ Warn] [RPCObject]: Subscriber: { Account: test@ [lowId: 26990464] } not online.
